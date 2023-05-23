@@ -1,16 +1,37 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Anastasiia</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Junior QA Engineer</h3>
 
-<!--
-**asyakosova/asyakosova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Work with:
+------
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Forever learning:
+-------
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Look at my recent projects:
+-------
+
+
+### Leetcode progress:
+-------
+![LeetCode Stats](https://leetcode.card.workers.dev/akosova?theme=unicorn&font=source_code_pro&extension=activity&lapor?ext=heatmap)
+
+### Codewars progress:
+------
+![Codewars](https://github.r2v.ch/codewars?user=asyakosova&top_languages=true)
+
+
+### Some random facts about me: 
+---------
+* Samsung lover ❤️
+* Using notion for every task 📝
+* Dream is digital nomad lifestyle 🧳
